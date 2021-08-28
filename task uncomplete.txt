@@ -1,0 +1,19 @@
+- đọc openration sýs
+- đọc crypto simple 
+- làm nốt giải rar
+- học re IDA kienmanowar
+- học mạng máy tính (sau)
+- làm bài tập toán rời rạc 
+- K?}7<WT11[o rP1UrUslF@oZ=oo2j lMoK_T]8Fjl7WST3Qk MOJ-EV U
+
+cách máy tính thực hiện log
+
+
+-using angr to reverse engineer
+
+
+-tìm hiểu cấu trúc file PE 
+https://securitybox.vn/2587/cau-truc-pe-coff-file-va-y-nghia-trong-viec-phan-tich-ma-doc/
+
+- học laravel
+- học reactjs
